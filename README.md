@@ -4,7 +4,7 @@
 1. [Software requirements specification (SRS) document]()
   a. functional
   b. non-functional requirements
-2. [Structured analysis and Structured design (SA/SD) document]()
+2. [Structured analysis and Structured design (SA/SD) document](https://github.com/Sushreesatarupa/JIS/blob/main/SASD-JIS.pdf)
 3. [UML models]()
   a. Use case diagrams
   b. Class diagrams
