@@ -5,7 +5,7 @@
     - functional
     - non-functional requirements
 2. [Structured analysis and Structured design (SA/SD) document](https://github.com/Sushreesatarupa/JIS/blob/main/SASD-JIS.pdf)
-3. [UML models]()
+3. [UML models](https://github.com/Sushreesatarupa/JIS/blob/main/UML%20-%20JIS.pdf)
   
     - Use case diagrams
     - Class diagrams
